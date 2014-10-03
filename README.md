@@ -5,6 +5,7 @@
 ](http://img.shields.io/gittip/bundler.svg?style=flat)](http://gittip.com/bundler)
 
 # Bundler: a gem to bundle gems
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/meganemura/bundler?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Bundler makes sure Ruby applications run the same code on every machine.
 
